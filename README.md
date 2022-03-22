@@ -1,6 +1,6 @@
 # DCGAN-with-MNIST-dataset
 
-#Introduction
+# Introduction
 
 GAN, when used to generate images with the help of a deep convolutional network, is termed as DCGAN (Deep Convolutional Generative Adversarial Network). Hence, all the properties of basic GAN are applied to DCGAN in the same manner. 
 
